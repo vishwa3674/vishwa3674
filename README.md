@@ -54,10 +54,6 @@
 
 ---
 
-### 🐍 Contribution Snake
-![snake gif](https://github.com/vishwa3674/vishwa3674/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
