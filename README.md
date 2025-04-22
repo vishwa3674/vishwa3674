@@ -52,6 +52,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishwa3674&theme=radical" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vimanshani&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
 ---
 
 
